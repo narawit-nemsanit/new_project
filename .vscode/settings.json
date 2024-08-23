@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.yaml": "home-assistant"
+    },
+    "java.compile.nullAnalysis.mode": "automatic"
+}
